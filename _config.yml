@@ -20,7 +20,7 @@ title: SNAPP MORE (Monitoring Restoration)
 ###############################################
 
 navbar-links:
-  About the Project: "aboutme"
+  About the Project: "about_the_project"
   Datasheets: "aboutme"
   Project Policies:
     - Data Sharing Policy: "data_sharing_policy"
