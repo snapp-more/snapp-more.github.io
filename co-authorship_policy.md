@@ -5,6 +5,11 @@ subtitle: "Sources used: NUTNET, Nature, and SNAPP guidelines for publications a
 ---
 You can download the co-authorship policy (version 1) [here](link to pdf).
 
+{: .box-note}
+**TLDR:**
++ text 
++ more text.
+
 SNAPP MORE (Monitoring Restoration) is a working group led by Jennifer Powers (University of Minnesota), Leland Werden (ETH Zurich), Laura Toro (Missouri Botanical Garden), and Manaswi Raghurama (University of Minnesota), and funded by SNAPP (Science for Nature and People Partnership). This working group aims to: 1) synthesize and analyze long-term data on multifaceted outcomes of tropical restoration, 2) review existing restoration monitoring standards/tools/frameworks/protocols, and 3) understand what restoration practitioners are monitoring.
 
 **<u>Rationale:</u>** Our project will result in different products including (but not limited to) papers, policy briefs, databases, and websites. Our equitable co-authorship policy recognizes multiple ways all participants (working group participants, data holders, and extended members) can contribute to these different products. 
