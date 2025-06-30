@@ -11,10 +11,10 @@ SNAPP MORE (Monitoring Restoration) is a working group led by Jennifer Powers (U
 <u>**Rationale:**</u> Our project will result in different products including (but not limited to) papers, policy briefs, databases, and websites. Our equitable co-authorship policy recognizes multiple ways all participants (working group participants, data holders, and extended members) can contribute to these different products. 
 
 Our goals are to:
-a)	Ensure Fair Attribution: Provide a consistent, accurate, and transparent process for attributing the contributions of each author of any product (manuscripts, policy briefs, databases, websites, etc.) that comes out of this working group.
-b)	Foster Collaboration: Encourage participation of interested scientists, restoration practitioners, and other collaborators from diverse backgrounds and in different career stages.
-c)	Uphold Authorship Standards: Ensure that each author has made sufficient contribution to the specific product to warrant authorship while recognizing that there are multiple ways to contribute.
-d)	Balance Inclusivity and Rigor: Be inclusive while not diluting the value of authorship on a specific product. 
+a)	<u>Ensure Fair Attribution:</u> Provide a consistent, accurate, and transparent process for attributing the contributions of each author of any product (manuscripts, policy briefs, databases, websites, etc.) that comes out of this working group.
+b)	<u>Foster Collaboration:</u> Encourage participation of interested scientists, restoration practitioners, and other collaborators from diverse backgrounds and in different career stages.
+c)	<u>Uphold Authorship Standards:</u> Ensure that each author has made sufficient contribution to the specific product to warrant authorship while recognizing that there are multiple ways to contribute.
+d)	<u>Balance Inclusivity and Rigor:</u> Be inclusive while not diluting the value of authorship on a specific product. 
 
 Guidelines:
 1.	All working group participants and data contributors will be given the opportunity to opt-in to contribute to any of the products (manuscripts, policy briefs, databases, websites, etc.) that come out of the project.
