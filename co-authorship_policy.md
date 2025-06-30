@@ -38,7 +38,7 @@ Made a substantial contribution to the work product. Individuals may contribute 
      <li>
         <div><u>Conception, design, development and framing the project or question(s)</u></div>
         <div style="margin-left: 1.5em;">
-           Originated idea for current analysis of the data; contributed significantly to framing the ideas in this analysis at early stage of the product development
+           <i>Originated idea for current analysis of the data; contributed significantly to framing the ideas in this analysis at early stage of the product development</i>
         </div>
      </li>
      <li><u>Methodology design</u></li>
