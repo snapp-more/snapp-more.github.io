@@ -109,7 +109,7 @@ This work resulted from the Science for Nature and People Partnership (SNAPP) Mo
 
 In addition, all co-authors will be invited to provide the information from their own funding sources that either covered data collection and/or their participation in the product. A Google Sheet will be circulated to collect this information. 
 
-When logos are required, please use the following options
+When logos are required, please use the following [options](https://tnc.app.box.com/s/0eeixsto05fenv7jusl6npg7raxhde15)
 
 **Co-author order**
 
