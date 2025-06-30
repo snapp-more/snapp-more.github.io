@@ -11,7 +11,12 @@ SNAPP MORE (Monitoring Restoration) is a working group led by Jennifer Powers (U
 **<u>Rationale:</u>** Our project will result in different products including (but not limited to) papers, policy briefs, databases, and websites. Our equitable co-authorship policy recognizes multiple ways all participants (working group participants, data holders, and extended members) can contribute to these different products. 
 
 **<u>Our goals are to:</u>**
-
+<ol type="a">
+     <li><u>Ensure Fair Attribution:</u> Provide a consistent, accurate, and transparent process for attributing the contributions of each author of any product (manuscripts, policy briefs, databases, websites, etc.) that comes out of this working group.</li>
+     <li><u>Foster Collaboration:</u> Encourage participation of interested scientists, restoration practitioners, and other collaborators from diverse backgrounds and in different career stages.</li>
+     <li><u>Uphold Authorship Standards:</u> Ensure that each author has made sufficient contribution to the specific product to warrant authorship while recognizing that there are multiple ways to contribute.</li>
+     <li><u>Balance Inclusivity and Rigor:</u> Be inclusive while not diluting the value of authorship on a specific product.</li>
+   </ol>
 a)	<u>Ensure Fair Attribution:</u> Provide a consistent, accurate, and transparent process for attributing the contributions of each author of any product (manuscripts, policy briefs, databases, websites, etc.) that comes out of this working group.
 b)	<u>Foster Collaboration:</u> Encourage participation of interested scientists, restoration practitioners, and other collaborators from diverse backgrounds and in different career stages.
 c)	<u>Uphold Authorship Standards:</u> Ensure that each author has made sufficient contribution to the specific product to warrant authorship while recognizing that there are multiple ways to contribute.
