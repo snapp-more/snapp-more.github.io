@@ -23,7 +23,7 @@ We are seeking monitoring data related to tropical restoration projects. The dat
 + Associated Data: Site photographs, maps, and any available reports or summaries.
 + We will work with you to identify the specific data from your records that are most relevant to our research questions and are reasonably accessible for you to share. We are not necessarily looking for datasets with all of these data, but any dataset with any of these variables is potentially of interest to us.
 
-Project Information (Metadata): Location(s) of restoration project(s), size of restoration and monitoring area, number of monitoring years, restoration goals, techniques employed, restoration monitoring protocol followed, and cost of monitoring.
+<u>Project Information (Metadata):</u> Location(s) of restoration project(s), size of restoration and monitoring area, number of monitoring years, restoration goals, techniques employed, restoration monitoring protocol followed, and cost of monitoring.
 
 **2. How We Will Use Your Data**
 
@@ -46,35 +46,35 @@ We aim to publish the following outputs from this work:
 **3. Data Confidentiality and Anonymity**
 We understand that some of your data may be sensitive. We are committed to protecting your privacy and the specific locations of your projects if requested.
 
-Data Anonymization: We will anonymize your data by removing or generalizing any personally identifiable information (about any person/group/project) or specific location data. Any data shared with scientific publications would be processed data without personally identifiable information. 
+<u>Data Anonymization:</u> We will anonymize your data by removing or generalizing any personally identifiable information (about any person/group/project) or specific location data. Any data shared with scientific publications would be processed data without personally identifiable information. 
 
-Data Protection: Unique identifiers will be used for analysis, and the key linking these identifiers to specific projects will be kept confidential and secure. We are happy to discuss any data protection policies you want us to follow regarding data related to endangered species or specific species of concern.
+<u>Data Protection:</u> Unique identifiers will be used for analysis, and the key linking these identifiers to specific projects will be kept confidential and secure. We are happy to discuss any data protection policies you want us to follow regarding data related to endangered species or specific species of concern.
 
-Secure Storage: All data will be stored on secure, password-protected servers accessible only to the research team.
+<u>Secure Storage:</u> All data will be stored on secure, password-protected servers accessible only to the research team.
 
 **4. Data Ownership and Intellectual Property**
 
-You Retain Ownership: You will retain full ownership of your original data. We will use the data for the above mentioned purposes, but do not claim ownership of the data.
+<u>You Retain Ownership:</u> You will retain full ownership of your original data. We will use the data for the above mentioned purposes, but do not claim ownership of the data.
 
-Shared Intellectual Property: Any publications, presentations, or reports that result from the analysis of the compiled dataset will be the intellectual property of the research project. However, we are committed to acknowledging your contribution and provide ways for you to participate more fully in our project and its products.
+<u>Shared Intellectual Property:</u> Any publications, presentations, or reports that result from the analysis of the compiled dataset will be the intellectual property of the research project. However, we are committed to acknowledging your contribution and provide ways for you to participate more fully in our project and its products.
 
 **5. Acknowledgment and Co-authorship**
 
 We believe in giving credit where credit is due. Your contribution to this research will be acknowledged in all resulting publications, presentations, reports, and online tools/databases.
 
-Acknowledgment: We will acknowledge you and your organization as contributors of data, photos, maps, and figures in a dedicated section of any output. Please let us know your preferred format for acknowledgment.
+<u>Acknowledgment:</u> We will acknowledge you and your organization as contributors of data, photos, maps, and figures in a dedicated section of any output. Please let us know your preferred format for acknowledgment.
 
-Co-authorship: When you share your data and make intellectual contributions to the analysis and writing of a specific publication or project output, we will offer co-authorship in accordance with standard academic practices. We will discuss this possibility with you as the research progresses. Our detailed co-authorship policy is available here: <insert link> link to page
+<u>Co-authorship:</u> When you share your data and make intellectual contributions to the analysis and writing of a specific publication or project output, we will offer co-authorship in accordance with standard academic practices. We will discuss this possibility with you as the research progresses. Our detailed co-authorship policy is available here: <insert link> link to page
 
 **6. Sharing Our Findings**
 
 We are committed to sharing the results of our research with you and the broader restoration community.
 
-Summary of Findings: We will provide you with a summary of the key findings from our research.
+<u>Summary of Findings:</u> We will provide you with a summary of the key findings from our research.
 
-Copies of Publications and Products: We will share with you digital copies of any publications/products that result from this research.
+<u>Copies of Publications and Products:</u> We will share with you digital copies of any publications/products that result from this research.
 
-Open Access: Whenever possible, we will publish our findings in open-access journals to ensure the widest possible dissemination to practitioners and the public.
+<u>Open Access:</u> Whenever possible, we will publish our findings in open-access journals to ensure the widest possible dissemination to practitioners and the public.
 
 **7. Our Agreement**
 
