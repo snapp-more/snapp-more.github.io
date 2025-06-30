@@ -25,7 +25,7 @@ Monitoring Data:
 
 Project Information (Metadata): Location(s) of restoration project(s), size of restoration and monitoring area, number of monitoring years, restoration goals, techniques employed, restoration monitoring protocol followed, and cost of monitoring.
 
-2. How We Will Use Your Data
+**2. How We Will Use Your Data**
 
 Your data will be used for the following research purposes only:
 
@@ -43,7 +43,7 @@ We aim to publish the following outputs from this work:
 ●	An online tool to help restoration practitioners plan their monitoring efforts in the tropics.
 ●	Databases being published online (subject to the policy in “Data Confidentiality and Anonymity” and “Data Ownership and Intellectual Property” sections below).
 
-3. Data Confidentiality and Anonymity
+**3. Data Confidentiality and Anonymity**
 We understand that some of your data may be sensitive. We are committed to protecting your privacy and the specific locations of your projects if requested.
 
 Data Anonymization: We will anonymize your data by removing or generalizing any personally identifiable information (about any person/group/project) or specific location data. Any data shared with scientific publications would be processed data without personally identifiable information. 
@@ -52,13 +52,13 @@ Data Protection: Unique identifiers will be used for analysis, and the key linki
 
 Secure Storage: All data will be stored on secure, password-protected servers accessible only to the research team.
 
-4. Data Ownership and Intellectual Property
+**4. Data Ownership and Intellectual Property**
 
 You Retain Ownership: You will retain full ownership of your original data. We will use the data for the above mentioned purposes, but do not claim ownership of the data.
 
 Shared Intellectual Property: Any publications, presentations, or reports that result from the analysis of the compiled dataset will be the intellectual property of the research project. However, we are committed to acknowledging your contribution and provide ways for you to participate more fully in our project and its products.
 
-5. Acknowledgment and Co-authorship
+**5. Acknowledgment and Co-authorship**
 
 We believe in giving credit where credit is due. Your contribution to this research will be acknowledged in all resulting publications, presentations, reports, and online tools/databases.
 
@@ -66,7 +66,7 @@ Acknowledgment: We will acknowledge you and your organization as contributors of
 
 Co-authorship: When you share your data and make intellectual contributions to the analysis and writing of a specific publication or project output, we will offer co-authorship in accordance with standard academic practices. We will discuss this possibility with you as the research progresses. Our detailed co-authorship policy is available here: <insert link> link to page
 
-6. Sharing Our Findings
+**6. Sharing Our Findings**
 
 We are committed to sharing the results of our research with you and the broader restoration community.
 
@@ -76,7 +76,7 @@ Copies of Publications and Products: We will share with you digital copies of an
 
 Open Access: Whenever possible, we will publish our findings in open-access journals to ensure the widest possible dissemination to practitioners and the public.
 
-7. Our Agreement
+**7. Our Agreement**
 
 By sharing your data with our project, you are agreeing to the terms outlined in this document. We see this as a collaborative partnership and are open to discussing any specific concerns or requests you may have.
 
