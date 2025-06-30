@@ -30,4 +30,4 @@ Our analysis, and the resulting tools and guidelines, will help restoration prac
 
 Our work is funded by the [Science for Nature and People Partnership](https://snappartnership.net/teams/monitoring-restoration-effectiveness/) (SNAPP), a partnership of The Nature Conservancy and the Wildlife Conservation Society.
 
-![SNAPP Logo](/assets/img/SNAPP_Picture.tif)
+![SNAPP Logo](/assets/img/SNAPP_Picture.jpg)
