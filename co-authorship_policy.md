@@ -9,12 +9,12 @@ subtitle: "Sources used: NUTNET, Nature, and SNAPP guidelines for publications a
 SNAPP MORE (Monitoring Restoration) is a working group led by Jennifer Powers (University of Minnesota), Leland Werden (ETH Zurich), Laura Toro (Missouri Botanical Garden), and Manaswi Raghurama (University of Minnesota), and funded by SNAPP (Science for Nature and People Partnership). This working group aims to: 1) synthesize and analyze long-term data on multifaceted outcomes of tropical restoration, 2) review existing restoration monitoring standards/tools/frameworks/protocols, and 3) understand what restoration practitioners are monitoring.
 
 1. First main item
-   <ol type="A">
+   <ol type="a">
      <li>First sub‑item</li>
      <li>Second sub‑item</li>
    </ol>
 2. Second main item
-   <ol type="A">
+   <ol type="a">
      <li>Another sub‑item</li>
      <li>Yet another sub‑item</li>
    </ol>
