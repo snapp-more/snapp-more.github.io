@@ -15,13 +15,13 @@ Please let us know if you would like us to review and agree to some other data s
 We are seeking monitoring data related to tropical restoration projects. The datasets should, in total, cover a minimum of 5 years from the time of intervention, and with data collected at least in 2 different years (ideally every year or every other year). This data may include, but are not limited to:
 
 <u>Monitoring Data:</u>
-●	Ecological Indicators: Data on vegetation (e.g., species composition, cover, survival, natural regeneration, etc.), soils, water quantity and quality, biodiversity of groups besides plants (e.g., birds, insects, etc), wildlife use of restored plots, etc.
-●	Social indicators: Data on health and education outcomes, involvement of local people in restoration/monitoring activities, etc.
-●	Economic indicators: Data on employment in restoration/monitoring activities, labor income, economic valuation of ecosystem services/ecosystem functioning, etc.
-●	Reference data or control sites for comparison.
-●	Implementation Data: Information on the timing and methods of restoration activities.
-●	Associated Data: Site photographs, maps, and any available reports or summaries.
-●	We will work with you to identify the specific data from your records that are most relevant to our research questions and are reasonably accessible for you to share. We are not necessarily looking for datasets with all of these data, but any dataset with any of these variables is potentially of interest to us.
++ Ecological Indicators: Data on vegetation (e.g., species composition, cover, survival, natural regeneration, etc.), soils, water quantity and quality, biodiversity of groups besides plants (e.g., birds, insects, etc), wildlife use of restored plots, etc.
++ Social indicators: Data on health and education outcomes, involvement of local people in restoration/monitoring activities, etc.
++ Economic indicators: Data on employment in restoration/monitoring activities, labor income, economic valuation of ecosystem services/ecosystem functioning, etc.
++ Reference data or control sites for comparison.
++ Implementation Data: Information on the timing and methods of restoration activities.
++ Associated Data: Site photographs, maps, and any available reports or summaries.
++ We will work with you to identify the specific data from your records that are most relevant to our research questions and are reasonably accessible for you to share. We are not necessarily looking for datasets with all of these data, but any dataset with any of these variables is potentially of interest to us.
 
 Project Information (Metadata): Location(s) of restoration project(s), size of restoration and monitoring area, number of monitoring years, restoration goals, techniques employed, restoration monitoring protocol followed, and cost of monitoring.
 
