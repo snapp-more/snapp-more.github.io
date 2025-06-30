@@ -3,7 +3,7 @@ layout: page
 title: CO-AUTHORSHIP POLICY
 subtitle: "Sources used: NUTNET, Nature, and SNAPP guidelines for publications and authorship"
 ---
-
+edited footnotes
 <hr class="footnotes-sep" style="display:none; margin:0; border:none;">
 <ol class="footnotes" style="display:inline; margin:0; padding:0;">
   <li id="fn:1" style="display:inline; margin:0 0.5em; padding:0;">
