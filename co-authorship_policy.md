@@ -65,36 +65,6 @@ Originated idea for current analysis of the data; contributed significantly to f
 	<i>All authors should meet this criteria (and in addition to this should fulfill two of the other contribution styles for co-authorship).</i></li>
      <li><u>Funding acquisition</u></li>
    </ol>
-5. Co-authorship will be granted to contributors who fulfill at least two of the following criteria[^1]:
-Made a substantial contribution to the work product.
-Individuals may contribute in several ways, including:
-i.	Conception, design, development and framing the project or question(s)
-Originated idea for current analysis of the data; contributed significantly to framing the ideas in this analysis at early stage of the product development
-ii.	Methodology design
-iii.	Acquisition of data
-Provided a dataset being used in the product’s analysis
-iv.	Data curation
-v.	Analysis and interpretation of data
-Provided new code or specific suggestions for data analysis
-vi.	Data visualization
-Generated models (conceptual, statistical and/or mathematical), figures, tables, maps, etc. 
-vii.	Checking code
-Checked code for core analyses
-viii.	Writing of the work product
--	Writing of the majority of at least one section of the product
--	Writing a cover letter in the case of scientific manuscripts
--	Researching potential reviewers for scientific manuscripts
--	Creating tables from raw output from R or other statistical software
--	Checking citations to ensure that the summary of the literature matches the actual reference
--	Creating supplementary information such as tables, maps, or figures
--	Annotating or editing figures 
--	Ensuring that all tables and figures are cited consistently
--	Checking and preparing the code for publication
-ix.	Contributed to product writing
-Edited text for clarity, provided suggestions such as restructuring ideas or logical flow, or text and citations linking to new literature areas 
-x.	Approved the submitted version to be published and agreed to be accountable for all aspects of the work product.
-	All authors should meet this criteria (and in addition to this should fulfill two of the other contribution styles for co-authorship).
-xi.	Funding acquisition
 
 Contributors who do not meet all  criteria for authorship should be listed in the Acknowledgements section. Data contributors will be invited to collaborate on products as co-authors if they also contribute in one or more of the ways listed above.
 
