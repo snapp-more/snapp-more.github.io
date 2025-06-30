@@ -7,8 +7,8 @@ subtitle: Can long-term restoration outcomes be predicted from short-term data? 
 Restoration practitioners and researchers have been grappling with these questions in the backdrop of the numerous ecological restoration projects emerging in the tropics.
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="path/to/your/image.png"
-       alt="Descriptive alt text"
+  <img src="/assets/img/DJI_0462_JPG"
+       alt="Forest"
        style="max-width: 150px; margin-right: 1em;" />
   <div>
     <p>At present, billions of dollars are being poured into restoration projects globally. Unfortunately, funds to monitor restoration outcomes are not always included in these projects and rarely funded for more than two years. In the absence of clear answers to the above-mentioned questions, it is difficult to plan and budget for monitoring efforts, and as a result monitoring of restoration outcomes can frequently be underfunded.</p>
