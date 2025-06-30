@@ -21,7 +21,8 @@ title: SNAPP MORE (Monitoring Restoration)
 
 navbar-links:
   About the Project: "about_the_project"
-  Datasheets: "aboutme"
+  About the Team: "about_the_team"
+  Datasheets: "datasheets"
   Project Policies:
     - Data Sharing Policy: "data_sharing_policy"
     - Co-authorship Policy: "co-authorship_policy"
