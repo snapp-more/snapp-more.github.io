@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ABOUT THE PROJECT
-subtitle: Can long-term restoration outcomes be predicted from short-term data? How long should we track restoration projects to verify their success?
+subtitle: **Can long-term restoration outcomes be predicted from short-term data? How long should we track restoration projects to verify their success?**
 ---
 
 **Background:**
