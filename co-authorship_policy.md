@@ -8,17 +8,6 @@ subtitle: "Sources used: NUTNET, Nature, and SNAPP guidelines for publications a
 
 SNAPP MORE (Monitoring Restoration) is a working group led by Jennifer Powers (University of Minnesota), Leland Werden (ETH Zurich), Laura Toro (Missouri Botanical Garden), and Manaswi Raghurama (University of Minnesota), and funded by SNAPP (Science for Nature and People Partnership). This working group aims to: 1) synthesize and analyze long-term data on multifaceted outcomes of tropical restoration, 2) review existing restoration monitoring standards/tools/frameworks/protocols, and 3) understand what restoration practitioners are monitoring.
 
-1. First main item
-   <ol type="a">
-     <li>First sub‑item</li>
-     <li>Second sub‑item</li>
-   </ol>
-2. Second main item
-   <ol type="a">
-     <li>Another sub‑item</li>
-     <li>Yet another sub‑item</li>
-   </ol>
-
 **<u>Rationale:</u>** Our project will result in different products including (but not limited to) papers, policy briefs, databases, and websites. Our equitable co-authorship policy recognizes multiple ways all participants (working group participants, data holders, and extended members) can contribute to these different products. 
 
 **<u>Our goals are to:</u>**
@@ -29,6 +18,18 @@ c)	<u>Uphold Authorship Standards:</u> Ensure that each author has made sufficie
 d)	<u>Balance Inclusivity and Rigor:</u> Be inclusive while not diluting the value of authorship on a specific product. 
 
 **<u>Guidelines:</u>**
+1. All working group participants and data contributors will be given the opportunity to opt-in to contribute to any of the products (manuscripts, policy briefs, databases, websites, etc.) that come out of the project.
+   <ol type="a">
+     <li>Lead authors should circulate the product idea to all participants at early stages of development (ideally when outlines are being developed) to give participants the opportunity to opt into collaboration.</li>
+     <li>Co-authors will be invited to Zoom meetings, where they will have a chance to learn and provide feedback on the outlines and project results. In cases where participants cannot attend the meetings, a presentation of the outline will be shared with them.</li>
+     <li>Potential co-authors should signal interest to participate in writing or providing oral feedback by the stated deadline (generally within two weeks after the document has been shared).</li>
+   </ol>
+2. Lead authors will communicate regularly with co-authors who stated interest in the product and should share drafts of analyses, figures, and text as often as is productive and practical. 
+   <ol type="a">
+     <li>Google Drive will be used to facilitate everyone’s contributions.</li>
+     <li>Ideally co-authors will use the track changes/suggest feature to include their comments, so the lead author can easily detect the suggestions made by the different co-authors</li>
+     <li>Lead authors are responsible for incorporating the feedback co-authors provide.</li>
+   </ol>
 1.	All working group participants and data contributors will be given the opportunity to opt-in to contribute to any of the products (manuscripts, policy briefs, databases, websites, etc.) that come out of the project.
 a.	Lead authors should circulate the product idea to all participants at early stages of development (ideally when outlines are being developed) to give participants the opportunity to opt into collaboration.
 b.	Co-authors will be invited to Zoom meetings, where they will have a chance to learn and provide feedback on the outlines and project results. In cases where participants cannot attend the meetings, a presentation of the outline will be shared with them.
