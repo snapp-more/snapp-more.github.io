@@ -47,10 +47,12 @@ Generated models (conceptual, statistical and/or mathematical), figures, tables,
      <li>Checking code
 Checked code for core analyses</li>
      <li>Writing of the work product
-        <ul>
-          <li>Level 3</li>
+        <ul style="list-style-image: url('data:image/svg+xml;utf8, <svg xmlns=\'http://www.w3.org/2000/svg\' width=\'6\' height=\'6\'>
+	   <text x=\'0\' y=\'5\' font-size=\'6\'>–</text> </svg>'); list-style-position: inside; margin: 0; padding: 0.25em 0 0.25em 1em;">
+           <li>Subitem A</li>
+           <li>Subitem B</li>
         </ul>
-	</li>
+     </li>
      <li>Contributed to product writing
 Edited text for clarity, provided suggestions such as restructuring ideas or logical flow, or text and citations linking to new literature areas</li>
      <li>Approved the submitted version to be published and agreed to be accountable for all aspects of the work product.
