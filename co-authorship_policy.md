@@ -58,7 +58,7 @@ x.	Approved the submitted version to be published and agreed to be accountable f
 xi.	Funding acquisition
 
 Contributors who do not meet all  criteria for authorship should be listed in the Acknowledgements section. Data contributors will be invited to collaborate on products as co-authors if they also contribute in one or more of the ways listed above.
-Ideas to allow collaborators to opt-in and contribute meaningfully 
+**Ideas to allow collaborators to opt-in and contribute meaningfully**
 The first ‘opt-in’ email is intended to inform the entire working group and data contributors of a product that is being worked upon, and to identify who would like to contribute intellectually. 
 Who receives the opt-in email? For almost all products, the lead author should circulate the opt-in email to the working group and data contributors listserv  < >. This allows all participants, even those not interested in a topic or ineligible for co-authorship, to stay informed about SNAPP MORE projects. 
 The opt-in email should contain the following information (see example from the NutNet network here):
@@ -72,7 +72,7 @@ Those signing up to contribute to the product will add their contact information
 3.	A final version of this spreadsheet will be published as supplementary material of scientific manuscripts detailing each author’s personal contribution, for transparency of contributions (Sauermann and Haeussler 2017).
 4.	A two week deadline for signing up and providing the first contribution. 
 
-Develop products with co-authors who have opted-in 
+**Develop products with co-authors who have opted-in**
 
 After collaborators indicate their intention to contribute to a product (“opt-in”), subsequent emails are generally sent only to the subset who have opted in. The goal of each contact should be to provide effective communication with, and solicit specific feedback from, a large group of busy co-authors. Generally, 2-3 whole-group emails are sent by the lead author through the development of a product. Standard emails during the product development include:
 A summary of input and changes made in response to previous co-author feedback. Because this process involves the lead author considering many, sometimes conflicting, perspectives, summarizing co-author responses to each assignment and changes made is a critical part of ensuring that co-authors feel their time was valued, even when specific suggestions were not followed. Sharing a short description of key changes or how conflicting suggestions were resolved is helpful for everyone. While this process can feel onerous given many suggestions, it serves to improve the work.
@@ -82,16 +82,16 @@ A first contact to the co-authors may include a summary of the first round of co
 A second contact may include a draft manuscript and instructions to read but not text-edit, to suggest a title, and assess whether the key hypotheses and figures tell the story well.
 A third contact may request reviewer suggestions, assistance with formatting, editing, and creating the author and affiliation list.
 All co-authors must approve of the final version of the manuscript before it is submitted for publication.
-Confirm author contributions 
+**Confirm author contributions**
 Before publication, the lead author should carefully review the authorship contribution table to ensure that all authors have contributed at a level that warrants authorship and that contributions are consistently attributed among authors. Has each author made contributions in at least two areas in the authorship rubric? Did each author provide thoughtful, detailed feedback on the manuscript? Authors are encouraged to contact the working group PIs about any confusion or conflicts.
-Acknowledgment text
+**Acknowledgment text**
 This work resulted from the Science for Nature and People Partnership (SNAPP) Monitoring Restoration Effectiveness Working Group. SNAPP is a partnership of The Nature Conservancy and the Wildlife Conservation Society.
 
 In addition, all co-authors will be invited to provide the information from their own funding sources that either covered data collection and/or their participation in the product. A Google Sheet will be circulated to collect this information. 
 
 When logos are required, please use the following options
 
-Co-author order
+**Co-author order**
 Once the co-authorship rubric has been finalized, the co-authors with the highest contributions will go after the first author in alphabetical order.
 
 [^1]: Following the International Committee of Medical Journal Editors (ICMJE) Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals. https://icmje.org/recommendations/
