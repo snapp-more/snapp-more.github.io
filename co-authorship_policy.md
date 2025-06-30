@@ -49,9 +49,9 @@ Made a substantial contribution to the work product. Individuals may contribute 
      <li><div><u>Analysis and interpretation of data</u></div>
         <div style="margin-left: 1.5em;"><i>Provided new code or specific suggestions for data analysis</i></div></li>
      <li><div><u>Data visualization</u></div>
-<div style="margin-left: 1.5em;"><i>Generated models (conceptual, statistical and/or mathematical), figures, tables, maps, etc. </i></div></li>
+        <div style="margin-left: 1.5em;"><i>Generated models (conceptual, statistical and/or mathematical), figures, tables, maps, etc. </i></div></li>
      <li><div><u>Checking code</u></div>
-<div style="margin-left: 1.5em;"><i>Checked code for core analyses</i></div></li>
+        <div style="margin-left: 1.5em;"><i>Checked code for core analyses</i></div></li>
      <li><u>Writing of the work product</u>
         <ul style="list-style-image: url('data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%226%22%20height=%226%22%3E%3Ctext%20x=%220%22%20y=%225%22%20font-size=%226%22%3E%E2%80%93%3C/text%3E%3C/svg%3E'); list-style-position: inside; margin: 0; padding: 0.25em 0 0.25em 1em; font-style: italic;">
            <li>Writing of the majority of at least one section of the product</li>
