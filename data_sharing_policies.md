@@ -64,7 +64,7 @@ We believe in giving credit where credit is due. Your contribution to this resea
 
 <u>Acknowledgment:</u> We will acknowledge you and your organization as contributors of data, photos, maps, and figures in a dedicated section of any output. Please let us know your preferred format for acknowledgment.
 
-<u>Co-authorship:</u> When you share your data and make intellectual contributions to the analysis and writing of a specific publication or project output, we will offer co-authorship in accordance with standard academic practices. We will discuss this possibility with you as the research progresses. Our detailed co-authorship policy is available here: <insert link> link to page
+<u>Co-authorship:</u> When you share your data and make intellectual contributions to the analysis and writing of a specific publication or project output, we will offer co-authorship in accordance with standard academic practices. We will discuss this possibility with you as the research progresses. Our detailed co-authorship policy is available here: [Co-Authorship Policy](co-authorship_policy.md)
 
 **6. Sharing Our Findings**
 
