@@ -24,8 +24,8 @@ navbar-links:
   Datasheets: "aboutme"
   Project Policies:
     - Data Sharing Policy: "data_sharing_policies"
-    - Co-authorship Policy: "https://www.markdowntutorial.com/"
-    - Code of Conduct: "https://www.markdowntutorial.com/"
+    - Co-authorship Policy: "co-authorship_policy"
+    - Code of Conduct: "code_of_conduct"
   Contact Us: "https://deanattali.com"
 
 ################
