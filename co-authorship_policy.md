@@ -85,7 +85,9 @@ A first contact to the co-authors may include a summary of the first round of co
 A second contact may include a draft manuscript and instructions to read but not text-edit, to suggest a title, and assess whether the key hypotheses and figures tell the story well.
 A third contact may request reviewer suggestions, assistance with formatting, editing, and creating the author and affiliation list.
 All co-authors must approve of the final version of the manuscript before it is submitted for publication.
+
 **Confirm author contributions**
+
 Before publication, the lead author should carefully review the authorship contribution table to ensure that all authors have contributed at a level that warrants authorship and that contributions are consistently attributed among authors. Has each author made contributions in at least two areas in the authorship rubric? Did each author provide thoughtful, detailed feedback on the manuscript? Authors are encouraged to contact the working group PIs about any confusion or conflicts.
 
 **Acknowledgment text**
