@@ -29,19 +29,19 @@ We are seeking monitoring data related to tropical restoration projects. The dat
 
 Your data will be used for the following research purposes only:
 
-●	To determine whether short-term monitoring could help predict long-term outcomes of tropical restoration, and to determine which indicators could this be potentially true for.
-●	To determine the progress of different indicators at different points of the restoration timeline.
-●	To determine whether the rate of change of these indicators changes over time.
++ To determine whether short-term monitoring could help predict long-term outcomes of tropical restoration, and to determine which indicators could this be potentially true for.
++ To determine the progress of different indicators at different points of the restoration timeline.
++ To determine whether the rate of change of these indicators changes over time.
 
 We will discuss with you if we wish to use the data for any other purpose, and we will also discuss with you for how long we can use this data.
 
 Your data will be integrated with data from other restoration projects in the tropics to identify broader patterns and get insights that may not be apparent from a single project.
 
 We aim to publish the following outputs from this work: 
-●	Scientific paper(s) presenting the results of the analysis.
-●	Summaries for practitioners, donors, and policymakers with key take home messages.
-●	An online tool to help restoration practitioners plan their monitoring efforts in the tropics.
-●	Databases being published online (subject to the policy in “Data Confidentiality and Anonymity” and “Data Ownership and Intellectual Property” sections below).
++ Scientific paper(s) presenting the results of the analysis.
++ Summaries for practitioners, donors, and policymakers with key take home messages.
++ An online tool to help restoration practitioners plan their monitoring efforts in the tropics.
++ Databases being published online (subject to the policy in “Data Confidentiality and Anonymity” and “Data Ownership and Intellectual Property” sections below).
 
 **3. Data Confidentiality and Anonymity**
 We understand that some of your data may be sensitive. We are committed to protecting your privacy and the specific locations of your projects if requested.
