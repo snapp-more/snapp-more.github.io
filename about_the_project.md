@@ -9,7 +9,7 @@ Restoration practitioners and researchers have been grappling with these questio
 <div style="display: flex; align-items: flex-start;">
   <img src="/assets/img/DJI_0462.JPG"
        alt="Forest"
-       style="max-width: 150px; margin-right: 1em;" />
+       style="max-width: 300px; margin-right: 1em;" />
   <div>
     <p>At present, billions of dollars are being poured into restoration projects globally. Unfortunately, funds to monitor restoration outcomes are not always included in these projects and rarely funded for more than two years. In the absence of clear answers to the above-mentioned questions, it is difficult to plan and budget for monitoring efforts, and as a result monitoring of restoration outcomes can frequently be underfunded.</p>
   </div>
