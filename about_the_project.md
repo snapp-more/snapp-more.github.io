@@ -4,9 +4,6 @@ title: ABOUT THE PROJECT
 subtitle: Can long-term restoration outcomes be predicted from short-term data? How long should we track restoration projects to verify their success?
 ---
 
-**Background:**
-
-Ecological Restoration is currently in the global spotlight. At present, billions of dollars are being poured into restoration projects globally. Unfortunately, funds to monitor restoration outcomes are not always included in these projects and rarely funded for more than two years. To prioritize more efficient use of limited resources, it is essential to have standardized guidelines that establish how much monitoring is useful to gauge project success.
 
 **Our Approach:**
 
