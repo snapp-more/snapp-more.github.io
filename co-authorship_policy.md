@@ -45,7 +45,7 @@ Made a substantial contribution to the work product. Individuals may contribute 
      <li><u>Acquisition of data</u></li>
      <li><u>Data curation</u></li>
      <li><div><u>Analysis and interpretation of data</u></div>
-<div style="margin-left: 1.5em;"><i>Provided new code or specific suggestions for data analysis</i></div></li>
+        <div style="margin-left: 1.5em;"><i>Provided new code or specific suggestions for data analysis</i></div></li>
      <li><div><u>Data visualization</u></div>
 <div style="margin-left: 1.5em;"><i>Generated models (conceptual, statistical and/or mathematical), figures, tables, maps, etc. </i></div></li>
      <li><div><u>Checking code</u></div>
