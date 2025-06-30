@@ -23,7 +23,7 @@ navbar-links:
   About the Project: "aboutme"
   Datasheets: "aboutme"
   Project Policies:
-    - Data Sharing Policy: "https://beautifuljekyll.com"
+    - Data Sharing Policy: "data_sharing_policies"
     - Co-authorship Policy: "https://www.markdowntutorial.com/"
     - Code of Conduct: "https://www.markdowntutorial.com/"
   Contact Us: "https://deanattali.com"
