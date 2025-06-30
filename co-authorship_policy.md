@@ -35,8 +35,12 @@ SNAPP MORE (Monitoring Restoration) is a working group led by Jennifer Powers (U
 4. Co-authorship will be granted to contributors who fulfill at least two of the following criteria[^1]:
 Made a substantial contribution to the work product. Individuals may contribute in several ways, including:
    <ol type="i">
-     <li><u>Conception, design, development and framing the project or question(s)</u>
-Originated idea for current analysis of the data; contributed significantly to framing the ideas in this analysis at early stage of the product development</li>
+     <li>
+        <div><u>Conception, design, development and framing the project or question(s)</u></div>
+        <div style="margin-left: 1.5em;">
+           Originated idea for current analysis of the data; contributed significantly to framing the ideas in this analysis at early stage of the product development
+        </div>
+     </li>
      <li><u>Methodology design</u></li>
      <li><u>Acquisition of data</u></li>
      <li><u>Data curation</u></li>
