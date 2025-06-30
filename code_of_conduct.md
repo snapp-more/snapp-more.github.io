@@ -7,7 +7,7 @@ You can download the code of conduct policy (version 1) [here](link to pdf).
 
 Our work and relationships are governed by a shared commitment to each other and our broader goals.
 
-As a project funded under the SNAPP/TNC umbrella, we adhere to TNC’s Code of Conduct in terms of professional standards of conduct, and create a welcoming, inclusive, respectful, transparent, safe, and supportive environment. We expect that all members of the working group, the broad group of practitioners, data owners, and data contributors act in accordance with these core values. 
+As a project funded under the SNAPP/TNC umbrella, we adhere to TNC’s [Code of Conduct](https://www.nature.org/en-us/about-us/who-we-are/accountability/code-of-conduct/) in terms of professional standards of conduct, and create a welcoming, inclusive, respectful, transparent, safe, and supportive environment. We expect that all members of the working group, the broad group of practitioners, data owners, and data contributors act in accordance with these core values. 
 
 Because our working group stores, analyses and processes information regarding the monitoring of restoration projects, it is our responsibility to maintain the privacy of all data owners. More information regarding the policies we will follow regarding the management and privacy of data is available in our [data sharing policy](data_sharing_policy.md).
 Plain language and a non-patronizing style in the appropriate local languages will be used to communicate to all working group participants and data owners.
