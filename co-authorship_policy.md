@@ -47,8 +47,7 @@ Generated models (conceptual, statistical and/or mathematical), figures, tables,
      <li>Checking code
 Checked code for core analyses</li>
      <li>Writing of the work product
-        <ul style="list-style-image: url('data:image/svg+xml;utf8, <svg xmlns=\'http://www.w3.org/2000/svg\' width=\'6\' height=\'6\'>
-	   <text x=\'0\' y=\'5\' font-size=\'6\'>–</text> </svg>'); list-style-position: inside; margin: 0; padding: 0.25em 0 0.25em 1em;">
+        <ul style="list-style-image: url('data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%226%22%20height=%226%22%3E%3Ctext%20x=%220%22%20y=%225%22%20font-size=%226%22%3E%E2%80%93%3C/text%3E%3C/svg%3E'); list-style-position: inside; margin: 0; padding: 0.25em 0 0.25em 1em;">
            <li>Subitem A</li>
            <li>Subitem B</li>
         </ul>
@@ -95,7 +94,7 @@ Contributors who do not meet all  criteria for authorship should be listed in th
 **Ideas to allow collaborators to opt-in and contribute meaningfully**
 
 The first ‘opt-in’ email is intended to inform the entire working group and data contributors of a product that is being worked upon, and to identify who would like to contribute intellectually. 
-Who receives the opt-in email? For almost all products, the lead author should circulate the opt-in email to the working group and data contributors listserv  < >. This allows all participants, even those not interested in a topic or ineligible for co-authorship, to stay informed about SNAPP MORE projects. 
+Who receives the opt-in email? For almost all products, the lead author should circulate the opt-in email to the working group and data contributors listserv  (listserv coming soon). This allows all participants, even those not interested in a topic or ineligible for co-authorship, to stay informed about SNAPP MORE projects. 
 The opt-in email should contain the following information (see example from the NutNet network here):
 1.	The concept as a storyboard, including:
 a.	An abstract and outline of the framing, including questions/hypotheses, the general approach, and an outline of the introduction to illustrate concepts and linkages. 
