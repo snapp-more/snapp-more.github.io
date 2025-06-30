@@ -65,10 +65,10 @@ Made a substantial contribution to the work product. Individuals may contribute 
 	   <li>Checking and preparing the code for publication</li>
         </ul>
      </li>
-     <li><u>Contributed to product writing</u>
-<i>Edited text for clarity, provided suggestions such as restructuring ideas or logical flow, or text and citations linking to new literature areas</i></li>
-     <li><u>Approved the submitted version to be published and agreed to be accountable for all aspects of the work product.</u>
-	<i>All authors should meet this criteria (and in addition to this should fulfill two of the other contribution styles for co-authorship).</i></li>
+     <li><div><u>Contributed to product writing</u></div>
+        <div style="margin-left: 1.5em;"><i>Edited text for clarity, provided suggestions such as restructuring ideas or logical flow, or text and citations linking to new literature areas</i></div></li>
+     <li><div><u>Approved the submitted version to be published and agreed to be accountable for all aspects of the work product.</u></div>
+	<div style="margin-left: 1.5em;"><i>All authors should meet this criteria (and in addition to this should fulfill two of the other contribution styles for co-authorship).</i></div></li>
      <li><u>Funding acquisition</u></li>
    </ol>
 
