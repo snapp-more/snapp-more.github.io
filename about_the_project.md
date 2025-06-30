@@ -14,7 +14,7 @@ While the broader goals of the working group are available here, in this website
 •	Can short-term monitoring help predict long-term tropical restoration outcomes?
 •	Does the predictability of long-term tropical restoration outcomes depend on the indicator being measured and/or biophysical conditions?
 •	What are the levels to which different indicators recover after different time periods post-restoration intervention?
-You can check out our detailed data sharing policy <insert link to webpage>, co-authorship policy <insert link to webpage>, and code of conduct <insert link to webpage>.
+You can check out our detailed [data sharing policy](data_sharing_policy.md), [co-authorship policy](co-authorship_policy.md), and [code of conduct](code_of_conduct.md).
 **Expected outcomes of this project:**
 •	A standardized global database on multifaceted outcomes of tropical restoration projects (carbon, biodiversity, socio-economic, etc.).
 •	Guidelines, backed by statistical analysis of the database, on how long should different indicators be monitored for?
