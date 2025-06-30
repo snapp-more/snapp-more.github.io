@@ -4,7 +4,7 @@ title: DATA SHARING POLICY
 subtitle: Our Commitment to a Collaborative & Ethical Approach
 ---
 
-[Download Data Sharing Policies](link to pdf)
+You can download the data sharing policy (version 1) [here](link to pdf).
 
 We recognize that the data you have collected represent a significant investment of time, resources, and expertise. We are committed to a data sharing relationship built on mutual respect, transparency, and a shared goal of advancing the science and practice of ecological restoration. This document outlines our approach to data sharing to ensure your contributions are acknowledged and your data is used responsibly and according to your wishes.
 
