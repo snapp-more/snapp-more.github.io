@@ -11,6 +11,7 @@ SNAPP MORE (Monitoring Restoration) is a working group led by Jennifer Powers (U
 **<u>Rationale:</u>** Our project will result in different products including (but not limited to) papers, policy briefs, databases, and websites. Our equitable co-authorship policy recognizes multiple ways all participants (working group participants, data holders, and extended members) can contribute to these different products. 
 
 **<u>Our goals are to:</u>**
+
 a)	<u>Ensure Fair Attribution:</u> Provide a consistent, accurate, and transparent process for attributing the contributions of each author of any product (manuscripts, policy briefs, databases, websites, etc.) that comes out of this working group.
 b)	<u>Foster Collaboration:</u> Encourage participation of interested scientists, restoration practitioners, and other collaborators from diverse backgrounds and in different career stages.
 c)	<u>Uphold Authorship Standards:</u> Ensure that each author has made sufficient contribution to the specific product to warrant authorship while recognizing that there are multiple ways to contribute.
@@ -58,7 +59,9 @@ x.	Approved the submitted version to be published and agreed to be accountable f
 xi.	Funding acquisition
 
 Contributors who do not meet all  criteria for authorship should be listed in the Acknowledgements section. Data contributors will be invited to collaborate on products as co-authors if they also contribute in one or more of the ways listed above.
+
 **Ideas to allow collaborators to opt-in and contribute meaningfully**
+
 The first ‘opt-in’ email is intended to inform the entire working group and data contributors of a product that is being worked upon, and to identify who would like to contribute intellectually. 
 Who receives the opt-in email? For almost all products, the lead author should circulate the opt-in email to the working group and data contributors listserv  < >. This allows all participants, even those not interested in a topic or ineligible for co-authorship, to stay informed about SNAPP MORE projects. 
 The opt-in email should contain the following information (see example from the NutNet network here):
@@ -84,7 +87,9 @@ A third contact may request reviewer suggestions, assistance with formatting, ed
 All co-authors must approve of the final version of the manuscript before it is submitted for publication.
 **Confirm author contributions**
 Before publication, the lead author should carefully review the authorship contribution table to ensure that all authors have contributed at a level that warrants authorship and that contributions are consistently attributed among authors. Has each author made contributions in at least two areas in the authorship rubric? Did each author provide thoughtful, detailed feedback on the manuscript? Authors are encouraged to contact the working group PIs about any confusion or conflicts.
+
 **Acknowledgment text**
+
 This work resulted from the Science for Nature and People Partnership (SNAPP) Monitoring Restoration Effectiveness Working Group. SNAPP is a partnership of The Nature Conservancy and the Wildlife Conservation Society.
 
 In addition, all co-authors will be invited to provide the information from their own funding sources that either covered data collection and/or their participation in the product. A Google Sheet will be circulated to collect this information. 
@@ -92,6 +97,7 @@ In addition, all co-authors will be invited to provide the information from thei
 When logos are required, please use the following options
 
 **Co-author order**
+
 Once the co-authorship rubric has been finalized, the co-authors with the highest contributions will go after the first author in alphabetical order.
 
 [^1]: Following the International Committee of Medical Journal Editors (ICMJE) Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals. https://icmje.org/recommendations/
