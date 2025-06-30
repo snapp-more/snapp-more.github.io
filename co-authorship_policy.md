@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CO-AUTHORSHIP POLICY
+title: CO AUTHORSHIP POLICY
 subtitle: Sources used: NUTNET, Nature, and SNAPP guidelines for publications and authorship
 ---
 
