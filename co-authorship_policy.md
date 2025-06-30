@@ -110,7 +110,7 @@ c.	Figures and tables to illustrate the main take-home messages. These are inten
 2.	The lead author should communicate a clear and direct request that draws on the knowledge and expertise of the co-authors and will help the lead author.
 Examples include asking co-authors to propose alternative hypotheses for an observed pattern, describe links to other relevant bodies of literature and add citations, or provide ideas for complementary or alternative statistical analyses. If there are confusing results or technical issues that make data difficult to interpret, an assignment could be asking co-authors to consider and respond to these. A link to a shared online spreadsheet with the authorship rubric. 
 Those signing up to contribute to the product will add their contact information and check the areas in which they intend to contribute.
-3.	A final version of this spreadsheet will be published as supplementary material of scientific manuscripts detailing each author’s personal contribution, for transparency of contributions (Sauermann and Haeussler 2017).
+3.	A final version of this spreadsheet will be published as supplementary material of scientific manuscripts detailing each author’s personal contribution, for transparency of contributions [(Sauermann and Haeussler 2017)](https://www.science.org/doi/10.1126/sciadv.1700404).
 4.	A two week deadline for signing up and providing the first contribution. 
 
 **Develop products with co-authors who have opted-in**
@@ -140,4 +140,4 @@ When logos are required, please use the following options
 
 Once the co-authorship rubric has been finalized, the co-authors with the highest contributions will go after the first author in alphabetical order.
 
-[^1]: Following the International Committee of Medical Journal Editors (ICMJE) Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals. (https://icmje.org/recommendations/)[https://icmje.org/recommendations/]
+[^1]: Following the International Committee of Medical Journal Editors (ICMJE) Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals. [https://icmje.org/recommendations/](https://icmje.org/recommendations/)
