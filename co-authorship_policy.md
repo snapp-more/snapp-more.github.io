@@ -41,11 +41,11 @@ Originated idea for current analysis of the data; contributed significantly to f
      <li><u>Acquisition of data</u></li>
      <li><u>Data curation</u></li>
      <li><u>Analysis and interpretation of data</u>
-Provided new code or specific suggestions for data analysis</li>
+<i>Provided new code or specific suggestions for data analysis</i></li>
      <li><u>Data visualization</u>
-Generated models (conceptual, statistical and/or mathematical), figures, tables, maps, etc. </li>
+<i>Generated models (conceptual, statistical and/or mathematical), figures, tables, maps, etc. </i></li>
      <li><u>Checking code</u>
-Checked code for core analyses</li>
+<i>Checked code for core analyses</i></li>
      <li><u>Writing of the work product</u>
         <ul style="list-style-image: url('data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%226%22%20height=%226%22%3E%3Ctext%20x=%220%22%20y=%225%22%20font-size=%226%22%3E%E2%80%93%3C/text%3E%3C/svg%3E'); list-style-position: inside; margin: 0; padding: 0.25em 0 0.25em 1em;, font-style: italic">
            <li>Writing of the majority of at least one section of the product</li>
@@ -60,9 +60,9 @@ Checked code for core analyses</li>
         </ul>
      </li>
      <li><u>Contributed to product writing</u>
-Edited text for clarity, provided suggestions such as restructuring ideas or logical flow, or text and citations linking to new literature areas</li>
+<i>Edited text for clarity, provided suggestions such as restructuring ideas or logical flow, or text and citations linking to new literature areas</i></li>
      <li><u>Approved the submitted version to be published and agreed to be accountable for all aspects of the work product.</u>
-	All authors should meet this criteria (and in addition to this should fulfill two of the other contribution styles for co-authorship).</li>
+	<i>All authors should meet this criteria (and in addition to this should fulfill two of the other contribution styles for co-authorship).</i></li>
      <li><u>Funding acquisition</u></li>
    </ol>
 5. Co-authorship will be granted to contributors who fulfill at least two of the following criteria[^1]:
