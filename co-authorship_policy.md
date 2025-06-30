@@ -48,8 +48,15 @@ Generated models (conceptual, statistical and/or mathematical), figures, tables,
 Checked code for core analyses</li>
      <li><u>Writing of the work product</u>
         <ul style="list-style-image: url('data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%226%22%20height=%226%22%3E%3Ctext%20x=%220%22%20y=%225%22%20font-size=%226%22%3E%E2%80%93%3C/text%3E%3C/svg%3E'); list-style-position: inside; margin: 0; padding: 0.25em 0 0.25em 1em;">
-           <li>Subitem A</li>
-           <li>Subitem B</li>
+           <li>Writing of the majority of at least one section of the product</li>
+           <li>Writing a cover letter in the case of scientific manuscripts</li>
+	   <li>Researching potential reviewers for scientific manuscripts</li>
+           <li>Creating tables from raw output from R or other statistical software</li>
+	   <li>Checking citations to ensure that the summary of the literature matches the actual reference</li>
+           <li>Creating supplementary information such as tables, maps, or figures</li>
+	   <li>Annotating or editing figures </li>
+           <li>Ensuring that all tables and figures are cited consistently</li>
+	   <li>Checking and preparing the code for publication</li>
         </ul>
      </li>
      <li><u>Contributed to product writing</u>
