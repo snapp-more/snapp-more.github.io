@@ -140,4 +140,4 @@ When logos are required, please use the following options
 
 Once the co-authorship rubric has been finalized, the co-authors with the highest contributions will go after the first author in alphabetical order.
 
-[^1]: Following the International Committee of Medical Journal Editors (ICMJE) Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals. https://icmje.org/recommendations/
+[^1]: Following the International Committee of Medical Journal Editors (ICMJE) Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals. (https://icmje.org/recommendations/)[https://icmje.org/recommendations/]
