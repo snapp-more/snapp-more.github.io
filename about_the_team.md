@@ -36,5 +36,6 @@ layout: page
 </div>
 -->
 
-## Members
+## Members  
 
+Shalom Addo-Danso, *Forest Research Institute of Ghana*, [Google Scholar](https://scholar.google.com/citations?user=4wO1U8EAAAAJ&hl=en)  
