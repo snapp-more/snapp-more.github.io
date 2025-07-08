@@ -39,3 +39,16 @@ layout: page
 ## Members  
 
 Shalom Addo-Danso, *Forest Research Institute of Ghana*, [Google Scholar](https://scholar.google.com/citations?user=4wO1U8EAAAAJ&hl=en)  
+Pooja Choksi, *University of Minnesota*, [Website](https://poojachoksi.weebly.com/)  
+Juliana Delgado, *The Nature Conservancy*, [Google Scholar](https://scholar.google.com/citations?user=LjCHc00AAAAJ&hl=en)  
+Isabel Hillman, *Conservation International*, [LinkedIn](https://www.linkedin.com/in/isabelhillman)  
+Sara Löfqvist, *ETH Zurich*, [LinkedIn](https://ch.linkedin.com/in/sara-l%C3%B6fqvist-635b0a101)  
+Cristy Portales-Reyes, *Saint Louis University*, [Lab Website](https://portalesbiodiversitylab.com/)  
+David Reyes, *Ministerio de Ambiente y Energia, Costa Rica*, [LinkedIn](https://cr.linkedin.com/in/david-reyes-cordero-96b80a72)  
+Silvia Secchi, *University of Iowa*, [Website](https://ssecchi.wixsite.com/mysite)  
+Depi Susilawati, *Australian National University*, [Google Scholar](https://scholar.google.com/citations?user=SA9QrCsAAAAJ&hl=en)  
+Selene Torres, *Wildlife Conservation Society*, [LinkedIn](https://co.linkedin.com/in/selenetorres)  
+Zak Zahawi, *Charles Darwin Foundation*, [Website](https://rzahawi.wordpress.com/)
+
+## Advisors  
+
