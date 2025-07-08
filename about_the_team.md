@@ -46,9 +46,16 @@ Sara Löfqvist, *ETH Zurich*, [LinkedIn](https://ch.linkedin.com/in/sara-l%C3%B6
 Cristy Portales-Reyes, *Saint Louis University*, [Lab Website](https://portalesbiodiversitylab.com/)  
 David Reyes, *Ministerio de Ambiente y Energia, Costa Rica*, [LinkedIn](https://cr.linkedin.com/in/david-reyes-cordero-96b80a72)  
 Silvia Secchi, *University of Iowa*, [Website](https://ssecchi.wixsite.com/mysite)  
+Jacob Slusser, **, [LinkedIn](https://www.linkedin.com/in/jacob-l-slusser-228b1624/)  
 Depi Susilawati, *Australian National University*, [Google Scholar](https://scholar.google.com/citations?user=SA9QrCsAAAAJ&hl=en)  
 Selene Torres, *Wildlife Conservation Society*, [LinkedIn](https://co.linkedin.com/in/selenetorres)  
 Zak Zahawi, *Charles Darwin Foundation*, [Website](https://rzahawi.wordpress.com/)
 
 ## Advisors  
 
+Pedro Brancalion, *University of Sao Paulo*, [Google Scholar](https://scholar.google.com/citations?user=0f_YV1wAAAAJ&hl=pt-BR)  
+Lyndall Bull, *Food and Agricultural Organization*, [LinkedIn](https://it.linkedin.com/in/lyndall-bull-1b341a12)
+Robin Chazdon, *University of the Sunshine Coast and World Resources Institute*, [LinkedIn](https://www.linkedin.com/in/robin-chazdon-96218a59)  
+Susan Cook-Patton, *The Nature Conservancy*, [LinkedIn](https://www.linkedin.com/in/susan-cook-patton-ph-d-3904a44)  
+Eva Garen, *Environmental Leadership and Training Initiative*, [LinkedIn](https://www.linkedin.com/in/eva-garen-ph-d-0b358713)  
+Karen Holl, *University of California, Santa Cruz*, [Lab Website](http://www.holl-lab.com/store/c1/Featured_Products.html)
