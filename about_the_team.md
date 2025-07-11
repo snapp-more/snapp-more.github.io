@@ -10,6 +10,8 @@ Leland Werden, *ETH Zürich*, [LinkedIn](https://ch.linkedin.com/in/leland-werde
 Manaswi Raghurama, *University of Minnesota*, [LinkedIn](https://www.linkedin.com/in/manaswi-raghurama-3566297a/)  
 Jennifer Powers, *University of Minnesota*, [Lab Website](https://cbs.umn.edu/directory/jennifer-powers)  
 
+<div><span>&#9993;</span></div>
+
 <!-- 
 <div style="
   display: flex;
