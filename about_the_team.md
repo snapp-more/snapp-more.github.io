@@ -42,6 +42,6 @@ Zak Zahawi, *Charles Darwin Foundation*, [Website](https://rzahawi.wordpress.com
 Pedro Brancalion, *University of Sao Paulo*, [Google Scholar](https://scholar.google.com/citations?user=0f_YV1wAAAAJ&hl=pt-BR)  
 Lyndall Bull, *Food and Agricultural Organization*, [LinkedIn](https://it.linkedin.com/in/lyndall-bull-1b341a12)  
 Robin Chazdon, *University of the Sunshine Coast and World Resources Institute*, [LinkedIn](https://www.linkedin.com/in/robin-chazdon-96218a59)  
-Susan Cook-Patton, *The Nature Conservancy*, [LinkedIn](https://www.linkedin.com/in/susan-cook-patton-ph-d-3904a44)  
+Susan Cook-Patton, *The Nature Conservancy*, [LinkedIn](https://www.linkedin.com/in/susan-cook-patton-ph-d-3904a448)  
 Eva Garen, *Environmental Leadership and Training Initiative*, [LinkedIn](https://www.linkedin.com/in/eva-garen-ph-d-0b358713)  
 Karen Holl, *University of California, Santa Cruz*, [Lab Website](http://www.holl-lab.com/store/c1/Featured_Products.html)
