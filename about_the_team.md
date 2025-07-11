@@ -9,16 +9,16 @@ layout: page
 
 ## Project Leads  
 
-Laura Toro Gonzalez, *Missouri Botanical Garden*, [Lab Website](https://www.missouribotanicalgarden.org/plant-science/plant-science/about-science-conservation/research-staff/article/2878/toro-laura) <a href="mailto:ltoro@mobot.org">
+Laura Toro Gonzalez, *Missouri Botanical Garden*, [Lab Website](https://www.missouribotanicalgarden.org/plant-science/plant-science/about-science-conservation/research-staff/article/2878/toro-laura){:target="_blank"} <a href="mailto:ltoro@mobot.org">
   <span>&#9993;</span>
 </a>  
-Leland Werden, *ETH Zürich*, [LinkedIn](https://ch.linkedin.com/in/leland-werden) <a href="mailto:lwerden@gmail.com">
+Leland Werden, *ETH Zürich*, [LinkedIn](https://ch.linkedin.com/in/leland-werden){:target="_blank"} <a href="mailto:lwerden@gmail.com">
   <span>&#9993;</span>
 </a>  
-Manaswi Raghurama, *University of Minnesota*, [LinkedIn](https://www.linkedin.com/in/manaswi-raghurama-3566297a/) <a href="mailto:mraghura@umn.edu">
+Manaswi Raghurama, *University of Minnesota*, [LinkedIn](https://www.linkedin.com/in/manaswi-raghurama-3566297a/){:target="_blank"} <a href="mailto:mraghura@umn.edu">
   <span>&#9993;</span>
 </a>  
-Jennifer Powers, *University of Minnesota*, [Lab Website](https://cbs.umn.edu/directory/jennifer-powers) <a href="mailto:powers@umn.edu">
+Jennifer Powers, *University of Minnesota*, [Lab Website](https://cbs.umn.edu/directory/jennifer-powers){:target="_blank"} <a href="mailto:powers@umn.edu">
   <span>&#9993;</span>
 </a>  
 
