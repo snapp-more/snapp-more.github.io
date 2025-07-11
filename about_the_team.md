@@ -3,8 +3,8 @@ title: About the Team
 layout: page
 ---
 
-<img src="/assets/img/Final_Photo.jpg" alt="Alt text 1" width="300" style="display:inline-block; margin-right:12px;">
-<img src="/assets/img/SNAPP_group_Bogota.jpg" alt="Alt text 2" width="250" style="display:inline-block;">
+<img src="/assets/img/Final_Photo.jpg" alt="Alt text 1" width="400" style="display:inline-block; margin-right:12px;">
+<img src="/assets/img/SNAPP_group_Bogota.jpg" alt="Alt text 2" width="300" style="display:inline-block;">
 
 ## Project Leads  
 
