@@ -5,12 +5,10 @@ layout: page
 
 ## Project Leads  
 
-Laura Toro Gonzalez, *Missouri Botanical Garden*, [Lab Website](https://www.missouribotanicalgarden.org/plant-science/plant-science/about-science-conservation/research-staff/article/2878/toro-laura)  
-Leland Werden, *ETH Zürich*, [LinkedIn](https://ch.linkedin.com/in/leland-werden)  
-Manaswi Raghurama, *University of Minnesota*, [LinkedIn](https://www.linkedin.com/in/manaswi-raghurama-3566297a/)  
-Jennifer Powers, *University of Minnesota*, [Lab Website](https://cbs.umn.edu/directory/jennifer-powers)  
-
-<div><span>&#9993;</span></div>
+Laura Toro Gonzalez, *Missouri Botanical Garden*, [Lab Website](https://www.missouribotanicalgarden.org/plant-science/plant-science/about-science-conservation/research-staff/article/2878/toro-laura) <div><span>&#9993;</span></div> ltoro@mobot.org  
+Leland Werden, *ETH Zürich*, [LinkedIn](https://ch.linkedin.com/in/leland-werden) <div><span>&#9993;</span></div> lwerden@gmail.com  
+Manaswi Raghurama, *University of Minnesota*, [LinkedIn](https://www.linkedin.com/in/manaswi-raghurama-3566297a/) <div><span>&#9993;</span></div> mraghura@umn.edu  
+Jennifer Powers, *University of Minnesota*, [Lab Website](https://cbs.umn.edu/directory/jennifer-powers) <div><span>&#9993;</span></div> powers@umn.edu  
 
 <!-- 
 <div style="
