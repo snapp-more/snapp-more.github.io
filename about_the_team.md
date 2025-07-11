@@ -3,6 +3,11 @@ title: About the Team
 layout: page
 ---
 
+<div style="display: flex; gap: 1rem; align-items: center;">
+  <img src="assets/img/SNAPP_Picture.jpg" alt="SNAPP Group" style="max-width: 100%; height: auto;">
+  <img src="assets/img/SNAPP_group_Bogota.jpg" alt="SNAPP Group in Bogota" style="max-width: 100%; height: auto;">
+</div>
+
 ## Project Leads  
 
 Laura Toro Gonzalez, *Missouri Botanical Garden*, [Lab Website](https://www.missouribotanicalgarden.org/plant-science/plant-science/about-science-conservation/research-staff/article/2878/toro-laura) <a href="mailto:ltoro@mobot.org">
