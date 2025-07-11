@@ -7,7 +7,7 @@ layout: page
 
 Laura Toro Gonzalez, *Missouri Botanical Garden*, [Lab Website](https://www.missouribotanicalgarden.org/plant-science/plant-science/about-science-conservation/research-staff/article/2878/toro-laura)  
 Leland Werden, *ETH Zürich*, [LinkedIn](https://ch.linkedin.com/in/leland-werden)  
-Manaswi Raghurama, *University of Minnesota*, [LinkedIN](https://www.linkedin.com/in/manaswi-raghurama-3566297a/)  
+Manaswi Raghurama, *University of Minnesota*, [LinkedIn](https://www.linkedin.com/in/manaswi-raghurama-3566297a/)  
 Jennifer Powers, *University of Minnesota*, [Lab Website](https://cbs.umn.edu/directory/jennifer-powers)  
 
 <!-- 
