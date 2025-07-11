@@ -23,12 +23,12 @@ We are an interdisciplinary working group, composed of both researchers (biologi
 
 We are leveraging existing restoration networks to locate projects that have collected data on restoration outcomes and conduct an extensive literature review. With these resources, we will construct a database and apply a standardized format for the collation of data on both ecological and socio-economic outcomes of restoration.
 
-We will then analyze these data to determine whether long-term outcomes of restoration projects can be predicted from shorter-term data and discern if/how this differs by the metric under consideration and/or biophysical conditions. We also aim to track the monitoring costs relative to other project expenditures to evaluate the resources necessary to sufficiently monitor restoration outcomes. While the broader goals of the working group are available [here](https://snappartnership.net/teams/monitoring-restoration-effectiveness/), in this website, you will find detailed information about our **central research questions:**
+We will then analyze these data to determine whether long-term outcomes of restoration projects can be predicted from shorter-term data and discern if/how this differs by the metric under consideration and/or biophysical conditions. We also aim to track the monitoring costs relative to other project expenditures to evaluate the resources necessary to sufficiently monitor restoration outcomes. While the broader goals of the working group are available [here](https://snappartnership.net/teams/monitoring-restoration-effectiveness/){:target="_blank"}, in this website, you will find detailed information about our **central research questions:**
 + Can short-term monitoring help predict long-term tropical restoration outcomes?
 + Does the predictability of long-term tropical restoration outcomes depend on the indicator being measured and/or biophysical conditions?
 + What are the levels to which different indicators recover after different time periods post-restoration intervention?
 
-You can check out our detailed [data sharing policy](data_sharing_policy.md), [co-authorship policy](co-authorship_policy.md), and [code of conduct](code_of_conduct.md).
+You can check out our detailed [data sharing policy](data_sharing_policy.md){:target="_blank"}, [co-authorship policy](co-authorship_policy.md){:target="_blank"}, and [code of conduct](code_of_conduct.md){:target="_blank"}.
 
 **Expected outcomes of this project:**
 
@@ -42,6 +42,6 @@ Our analysis, and the resulting tools and guidelines, will help restoration prac
 
 **Funding Source:**
 
-Our work is funded by the [Science for Nature and People Partnership](https://snappartnership.net/teams/monitoring-restoration-effectiveness/) (SNAPP), a partnership of The Nature Conservancy and the Wildlife Conservation Society.
+Our work is funded by the [Science for Nature and People Partnership](https://snappartnership.net/teams/monitoring-restoration-effectiveness/){:target="_blank"} (SNAPP), a partnership of The Nature Conservancy and the Wildlife Conservation Society.
 
 ![SNAPP Logo](/assets/img/SNAPP_Picture.jpg)
