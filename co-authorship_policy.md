@@ -78,14 +78,15 @@ The first ‘opt-in’ email is intended to inform the entire working group and 
 Who receives the opt-in email? For almost all products, the lead author should circulate the opt-in email to the working group and data contributors listserv  (listserv coming soon). This allows all participants, even those not interested in a topic or ineligible for co-authorship, to stay informed about SNAPP MORE projects. 
 The opt-in email should contain the following information (see example from the NutNet network here):
 1.	The concept as a storyboard, including:
-  <ol type="a">
+a.	An abstract and outline of the framing, including questions/hypotheses, the general approach, and an outline of the introduction to illustrate concepts and linkages.  
+b.	Provide just enough detail that potential co-authors can see where the product fits intellectually.  
+c.	Figures and tables to illustrate the main take-home messages. These are intended to provide a thumbnail sketch of the main predictor and response variables.
+2. The concept as a storyboard, including:
+   <ol type="a">
      <li>An abstract and outline of the framing, including questions/hypotheses, the general approach, and an outline of the introduction to illustrate concepts and linkages.</li>
      <li>Provide just enough detail that potential co-authors can see where the product fits intellectually.</li>
      <li>Figures and tables to illustrate the main take-home messages. These are intended to provide a thumbnail sketch of the main predictor and response variables.</li>
    </ol>
-a.	An abstract and outline of the framing, including questions/hypotheses, the general approach, and an outline of the introduction to illustrate concepts and linkages.  
-b.	Provide just enough detail that potential co-authors can see where the product fits intellectually.  
-c.	Figures and tables to illustrate the main take-home messages. These are intended to provide a thumbnail sketch of the main predictor and response variables.
 2.	The lead author should communicate a clear and direct request that draws on the knowledge and expertise of the co-authors and will help the lead author.
 Examples include asking co-authors to propose alternative hypotheses for an observed pattern, describe links to other relevant bodies of literature and add citations, or provide ideas for complementary or alternative statistical analyses. If there are confusing results or technical issues that make data difficult to interpret, an assignment could be asking co-authors to consider and respond to these. A link to a shared online spreadsheet with the authorship rubric. 
 Those signing up to contribute to the product will add their contact information and check the areas in which they intend to contribute.
