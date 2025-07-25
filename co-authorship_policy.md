@@ -73,7 +73,8 @@ Contributors who do not meet at least two criteria for authorship should be list
 
 **Ideas to allow collaborators to opt-in and contribute meaningfully**
 
-The first ‘opt-in’ email is intended to inform the entire working group and data contributors of a product that is being worked upon, and to identify who would like to contribute intellectually. 
+The first ‘opt-in’ email is intended to inform the entire working group and data contributors of a product that is being worked upon, and to identify who would like to contribute intellectually.  
+
 Who receives the opt-in email? For almost all products, the lead author should circulate the opt-in email to the working group and data contributors listserv  (listserv coming soon). This allows all participants, even those not interested in a topic or ineligible for co-authorship, to stay informed about SNAPP MORE projects. 
 The opt-in email should contain the following information (see example from the NutNet network here):
 1.	The concept as a storyboard, including:  
@@ -95,6 +96,7 @@ After collaborators indicate their intention to contribute to a product (“opt-
 a. A first contact to the co-authors may include a summary of the first round of co-author feedback and changes made, plus a draft abstract, introduction, figures, and tables with brief text describing key results. This would then be paired with an assignment and a reasonable deadline. Example assignments include: provide thoughts on points to highlight in the discussion, provide key papers to cite, and recommend a journal to which to submit scientific manuscripts.  
 b. A second contact may include a draft manuscript and instructions to read but not text-edit, to suggest a title, and assess whether the key hypotheses and figures tell the story well.  
 c. A third contact may request reviewer suggestions, assistance with formatting, editing, and creating the author and affiliation list.
+
 All co-authors must approve of the final version of the manuscript before it is submitted for publication.
 
 **Confirm author contributions**
