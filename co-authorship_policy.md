@@ -77,7 +77,7 @@ The first ‘opt-in’ email is intended to inform the entire working group and 
 
 Who receives the opt-in email? For almost all products, the lead author should circulate the opt-in email to the working group and data contributors listserv  (listserv coming soon). This allows all participants, even those not interested in a topic or ineligible for co-authorship, to stay informed about SNAPP MORE projects. 
 The opt-in email should contain the following information (see example from the NutNet network here):
-1.	The concept as a storyboard, including:  
+1.	The concept as a storyboard, including:
   <ol type="a">
      <li>An abstract and outline of the framing, including questions/hypotheses, the general approach, and an outline of the introduction to illustrate concepts and linkages.</li>
      <li>Provide just enough detail that potential co-authors can see where the product fits intellectually.</li>
