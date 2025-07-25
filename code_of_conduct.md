@@ -3,7 +3,7 @@ layout: page
 title: WORKING GROUP CODE OF CONDUCT
 ---
 
-You can download the code of conduct policy (version 1) [here](link to pdf).
+You can download the code of conduct policy (version 1) [here](/assets/working_group_collaborator_code_of_conduct.pdf).
 
 Our work and relationships are governed by a shared commitment to each other and our broader goals.
 
