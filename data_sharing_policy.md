@@ -23,7 +23,7 @@ We are seeking monitoring data related to tropical restoration projects. The dat
 + Associated Data: Site photographs, maps, and any available reports or summaries.
 + We will work with you to identify the specific data from your records that are most relevant to our research questions and are reasonably accessible for you to share. We are not necessarily looking for datasets with all of these data, but any dataset with any of these variables is potentially of interest to us.
 
-<u>Project Information (Metadata):</u> Location(s) of restoration project(s), size of restoration and monitoring area, number of monitoring years, restoration goals, techniques employed, restoration monitoring protocol followed, and cost of monitoring.
+<u>Project Information (Metadata):</u> Location(s) of restoration project(s), size of restoration area, intervention start year, restoration goals, land use history, topography, and cost of monitoring.
 
 **2. How We Will Use Your Data**
 
@@ -50,7 +50,7 @@ We understand that some of your data may be sensitive. We are committed to prote
 
 <u>Data Protection:</u> Unique identifiers will be used for analysis, and the key linking these identifiers to specific projects will be kept confidential and secure. We are happy to discuss any data protection policies you want us to follow regarding data related to endangered species or specific species of concern.
 
-<u>Secure Storage:</u> All data will be stored on secure, password-protected servers accessible only to the research team.
+<u>Secure Storage:</u> All data will be stored on secure, password-protected servers accessible only to the research team until the products (database, scientific paper(s), policy papers, online tools) are published (unless permission is taken separately to store for longer). All data will be stored for a maximum of up to 2 years after the project ends. Raw data will be accessible only by the working group team leaders.
 
 **4. Data Ownership and Intellectual Property**
 
@@ -70,7 +70,7 @@ We believe in giving credit where credit is due. Your contribution to this resea
 
 We are committed to sharing the results of our research with you and the broader restoration community.
 
-<u>Summary of Findings:</u> We will provide you with a summary of the key findings from our research.
+<u>Summary of Findings:</u> We will provide you with a summary of the key findings from our research. All co-authors of each product will get opportunities to contribute effectively before the product is published (see co-authorship policy for more details). Any data contributors who choose to not be co-authors will be given a 2-week period to comment on products before submitting for publishing.
 
 <u>Copies of Publications and Products:</u> We will share with you digital copies of any publications/products that result from this research.
 
