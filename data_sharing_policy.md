@@ -33,7 +33,7 @@ Your data will be used for the following research purposes only:
 + To determine the progress of different indicators at different points of the restoration timeline.
 + To determine whether the rate of change of these indicators changes over time.
 
-We will discuss with you if we wish to use the data for any other purpose, and we will also discuss with you for how long we can use this data.
+We will discuss with you if we wish to use the data for any other purpose, and for how long we can use this data.
 
 Your data will be integrated with data from other restoration projects in the tropics to identify broader patterns and get insights that may not be apparent from a single project.
 
