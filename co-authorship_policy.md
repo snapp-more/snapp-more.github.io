@@ -103,12 +103,6 @@ After collaborators indicate their intention to contribute to a product (“opt-
      <li>A second contact may include a draft manuscript and instructions to read but not text-edit, to suggest a title, and assess whether the key hypotheses and figures tell the story well.</li>
      <li>A third contact may request reviewer suggestions, assistance with formatting, editing, and creating the author and affiliation list.</li>
    </ol>
-3. A new, targeted assignment and deadline. Assignments at each step depend on the needs of the lead author, but generally follow a similar recipe that includes sharing only the information necessary for co-authors to complete their assigned tasks by clearly soliciting key conceptual feedback. For example:  
-    a. A first contact to the co-authors may include a summary of the first round of co-author feedback and changes made, plus a draft abstract, introduction, figures, and tables with brief text describing key results. This would then be paired with an assignment and a reasonable deadline. Example assignments include: provide thoughts on points to highlight in the discussion, provide key papers to cite, and recommend a journal to which to submit scientific manuscripts.  
-    b. A second contact may include a draft manuscript and instructions to read but not text-edit, to suggest a title, and assess whether the key hypotheses and figures tell the story well.  
-    c. A third contact may request reviewer suggestions, assistance with formatting, editing, and creating the author and affiliation list.
-
-All co-authors must approve of the final version of the manuscript before it is submitted for publication.
 
 **Confirm author contributions**
 
