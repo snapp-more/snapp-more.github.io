@@ -34,11 +34,11 @@ Silvia Secchi, *University of Iowa*, [Website](https://ssecchi.wixsite.com/mysit
 Jacob Slusser, *ELTI (Environmental Leadership & Training Initiative), Yale School of the Environment*, [LinkedIn](https://www.linkedin.com/in/jacob-l-slusser-228b1624/){:target="_blank"}  
 Depi Susilawati, *Australian National University*, [Google Scholar](https://scholar.google.com/citations?user=SA9QrCsAAAAJ&hl=en){:target="_blank"}  
 Selene Torres, *Wildlife Conservation Society*, [LinkedIn](https://co.linkedin.com/in/selenetorres){:target="_blank"}  
-Zak Zahawi, *Charles Darwin Foundation*, [Website](https://rzahawi.wordpress.com/){:target="_blank"}
-Ricardo Viani, *Federal University of São Carlos - Brazil*, [Website](https://rzahawi.wordpress.com/){:target="_blank"} <br>
-Stephen M. Mureithi, *University of Nairobi*, [Website](https://laspef.com.br/){:target="_blank"}
-Susan Cordell, *US Department of Agriculture*, [Website](https://www.climatehubs.usda.gov/hubs/southwest/people/susan-cordell){:target="_blank"}
-Rebecca J. Cole, *Tropical Landscape and Climate Program*, [Website](https://scholar.google.com/citations?user=LXqS2xsAAAAJ&hl=en){:target="_blank"}
+Zak Zahawi, *Charles Darwin Foundation*, [Website](https://rzahawi.wordpress.com/){:target="_blank"} <br>
+Ricardo Viani, *Federal University of São Carlos - Brazil*, [Lab Website](https://laspef.com.br/){:target="_blank"} <br>
+Stephen M. Mureithi, *University of Nairobi*, [Website](https://profiles.uonbi.ac.ke/stemureithi){:target="_blank"} <br>
+Susan Cordell, *US Department of Agriculture*, [Website](https://www.climatehubs.usda.gov/hubs/southwest/people/susan-cordell){:target="_blank"} <br>
+Rebecca J. Cole, *Tropical Landscape and Climate Program*, [Google Scholar](https://scholar.google.com/citations?user=LXqS2xsAAAAJ&hl=en){:target="_blank"} <br>
 Marijn Bauters, *Ghent University*, [Website](https://www.ugent.be/bw/gct/en/research/isofys/staff/marijn-bauters.htm){:target="_blank"}
 
 ## Advisors  
